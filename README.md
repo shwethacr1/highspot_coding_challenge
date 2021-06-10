@@ -42,9 +42,6 @@ Once installed, this application will connect to an API to retrieve and show 20 
 
 Sometimes the first page loads twice, this could be potentially an issue with react-infinite-scroll-component.
 
-Linking the bug for reference
-
-https://github.com/danbovey/react-infinite-scroller/issues/143
 
 ## ToDo ##
 
